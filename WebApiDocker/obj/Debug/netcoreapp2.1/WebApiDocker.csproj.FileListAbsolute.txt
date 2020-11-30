@@ -1,0 +1,14 @@
+C:\Users\sandy\source\repos\WebApiDocker\WebApiDocker\obj\Debug\netcoreapp2.1\WebApiDocker.csproj.CoreCompileInputs.cache
+C:\Users\sandy\source\repos\WebApiDocker\WebApiDocker\obj\Debug\netcoreapp2.1\WebApiDocker.AssemblyInfoInputs.cache
+C:\Users\sandy\source\repos\WebApiDocker\WebApiDocker\obj\Debug\netcoreapp2.1\WebApiDocker.AssemblyInfo.cs
+C:\Users\sandy\source\repos\WebApiDocker\WebApiDocker\bin\Debug\netcoreapp2.1\WebApiDocker.deps.json
+C:\Users\sandy\source\repos\WebApiDocker\WebApiDocker\bin\Debug\netcoreapp2.1\WebApiDocker.runtimeconfig.json
+C:\Users\sandy\source\repos\WebApiDocker\WebApiDocker\bin\Debug\netcoreapp2.1\WebApiDocker.runtimeconfig.dev.json
+C:\Users\sandy\source\repos\WebApiDocker\WebApiDocker\bin\Debug\netcoreapp2.1\WebApiDocker.dll
+C:\Users\sandy\source\repos\WebApiDocker\WebApiDocker\bin\Debug\netcoreapp2.1\WebApiDocker.pdb
+C:\Users\sandy\source\repos\WebApiDocker\WebApiDocker\obj\Debug\netcoreapp2.1\WebApiDocker.csprojAssemblyReference.cache
+C:\Users\sandy\source\repos\WebApiDocker\WebApiDocker\obj\Debug\netcoreapp2.1\WebApiDocker.RazorAssemblyInfo.cache
+C:\Users\sandy\source\repos\WebApiDocker\WebApiDocker\obj\Debug\netcoreapp2.1\WebApiDocker.RazorAssemblyInfo.cs
+C:\Users\sandy\source\repos\WebApiDocker\WebApiDocker\obj\Debug\netcoreapp2.1\WebApiDocker.RazorTargetAssemblyInfo.cache
+C:\Users\sandy\source\repos\WebApiDocker\WebApiDocker\obj\Debug\netcoreapp2.1\WebApiDocker.dll
+C:\Users\sandy\source\repos\WebApiDocker\WebApiDocker\obj\Debug\netcoreapp2.1\WebApiDocker.pdb
